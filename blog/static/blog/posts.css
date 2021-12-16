@@ -41,3 +41,7 @@
   .post:active time {
     color: white;
   }
+  .tag{
+    background-color: white;
+    color: #5706c0;
+  }

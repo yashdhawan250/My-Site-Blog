@@ -90,3 +90,12 @@ h3 {
   .post:active time {
     color: white;
   }
+  #summary a{
+    color: white;
+    text-decoration: none;
+    
+  }
+  .tag{
+    background-color: white;
+    color: #5706c0;
+  }
